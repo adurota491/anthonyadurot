@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "E:/portfolio"
+		},
+		{
+			"path": "NEW HORIZON/portfolio"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "portfolio",
+		"liveServer.settings.port": 5502
+	}
+}

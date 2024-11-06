@@ -1,0 +1,89 @@
+.body{
+  background-color: pink;
+}
+.root {
+  --main-color: rgb(31, 180, 155);
+  --secondary-color: pink;
+  --potential-color: brown;
+}
+
+
+.container{
+  max-width: 600px;
+  background-color: rgb(255, 139, 7);
+  border-radius: 8px;
+  margin: 50px auto;
+  padding: 20px;
+  box-shadow: 0 0 10px burlywood;
+
+}
+
+
+.Click button {
+  cursor: pointer;
+  background-color: rgb(0, 0, 0);
+  color:var(--potential-color);
+border-radius: 5px;
+}
+
+
+label{  
+  display: flex;
+  margin-bottom: 5px;
+
+
+}
+
+
+.nav{
+  display: flex;
+}
+
+input{
+  width: 100%;
+
+}
+
+
+.form-group{
+  margin-bottom: 9000px;
+}
+
+/* .submit {
+background-color: ;
+border: ;
+padding: ; */
+
+
+
+/* .submit:hover{
+  cursor: pointer;
+  border-color: blue;
+} */
+
+ul{
+
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  height: 100px;
+  background-color: aqua;
+  margin:10px 0px 50px 0px;
+  padding: 0px 0px 0px 0px;
+  
+}
+`
+nav ul li a{
+  color: rgb(255, 12, 162);
+  text-decoration: none;
+}
+
+
+/* 
+.sub:hover{
+  cursor: pointer;
+  background-color: ;
+  border-radius: 10px;
+} */
+ 
+
